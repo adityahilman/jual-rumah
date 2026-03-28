@@ -251,6 +251,7 @@ export default function Home() {
             href={whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
+            id="whatsapp-contact-button"
             className="inline-block bg-white text-green-600 font-bold px-8 py-4 rounded-lg hover:bg-green-50 transition-colors text-lg"
           >
             💬 Chat via WhatsApp: {whatsappNumber}
